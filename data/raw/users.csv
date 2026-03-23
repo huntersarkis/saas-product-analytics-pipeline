@@ -1,0 +1,1001 @@
+user_id,signup_date,country,acquisition_channel
+1,2025-05-11,United States,Organic Search
+2,2025-07-29,United Kingdom,Paid Search
+3,2024-06-22,Canada,Organic Search
+4,2025-06-09,Australia,Organic Search
+5,2025-04-03,Germany,Organic Search
+6,2024-01-24,United States,Paid Search
+7,2024-06-29,Australia,Direct
+8,2024-01-21,Australia,Paid Search
+9,2025-07-10,Australia,Referral
+10,2024-06-20,Germany,Direct
+11,2024-08-04,United States,Paid Search
+12,2025-06-26,Germany,LinkedIn
+13,2024-08-03,Canada,Paid Search
+14,2025-08-16,United Kingdom,Organic Search
+15,2024-03-13,Germany,Organic Search
+16,2024-10-05,United Kingdom,Direct
+17,2024-07-24,United States,Referral
+18,2025-02-20,United States,Referral
+19,2024-03-02,Australia,LinkedIn
+20,2025-10-06,Australia,LinkedIn
+21,2025-03-24,Canada,Organic Search
+22,2024-02-05,Canada,LinkedIn
+23,2024-03-02,Canada,Organic Search
+24,2024-10-22,United Kingdom,Referral
+25,2025-05-08,United Kingdom,Paid Search
+26,2024-10-14,United Kingdom,Paid Search
+27,2025-06-04,United Kingdom,Organic Search
+28,2025-04-18,Canada,Direct
+29,2025-07-20,Canada,Paid Search
+30,2024-12-25,Germany,LinkedIn
+31,2025-12-19,Australia,Paid Search
+32,2025-06-15,United Kingdom,Organic Search
+33,2024-06-26,United States,LinkedIn
+34,2024-11-07,United Kingdom,Organic Search
+35,2024-06-12,Australia,LinkedIn
+36,2024-06-14,Germany,Referral
+37,2025-11-18,Germany,Paid Search
+38,2024-07-24,Canada,Paid Search
+39,2025-08-01,Australia,Direct
+40,2024-07-23,Australia,Referral
+41,2025-11-28,Australia,Referral
+42,2024-10-08,Canada,Paid Search
+43,2025-01-30,Germany,Organic Search
+44,2025-08-10,United States,Organic Search
+45,2024-04-28,Canada,Referral
+46,2025-04-08,United States,Referral
+47,2024-10-23,Australia,Referral
+48,2025-02-14,United Kingdom,Direct
+49,2025-10-30,United States,Organic Search
+50,2025-06-13,Australia,LinkedIn
+51,2025-08-19,United Kingdom,Organic Search
+52,2024-08-15,Germany,Paid Search
+53,2024-12-18,United States,LinkedIn
+54,2025-01-23,Canada,Direct
+55,2025-12-09,United States,LinkedIn
+56,2025-10-15,Australia,Direct
+57,2024-06-03,Canada,LinkedIn
+58,2025-08-15,Canada,Direct
+59,2025-08-27,Australia,Organic Search
+60,2025-04-10,United Kingdom,Referral
+61,2024-01-16,United States,LinkedIn
+62,2025-11-13,United Kingdom,Paid Search
+63,2024-02-14,Canada,Direct
+64,2024-03-02,United States,Referral
+65,2025-09-25,United States,Direct
+66,2025-08-17,Canada,Paid Search
+67,2025-05-27,Germany,Direct
+68,2024-05-08,United Kingdom,Direct
+69,2025-11-08,Australia,Referral
+70,2024-06-13,Australia,Paid Search
+71,2025-07-07,United Kingdom,Referral
+72,2025-06-05,United Kingdom,Referral
+73,2025-11-29,Australia,Referral
+74,2024-04-03,Canada,Paid Search
+75,2024-02-19,United Kingdom,Organic Search
+76,2025-04-01,Australia,Paid Search
+77,2025-04-02,Canada,Organic Search
+78,2024-02-25,United States,Paid Search
+79,2024-02-22,United States,LinkedIn
+80,2024-02-25,Australia,Paid Search
+81,2024-08-04,Germany,Paid Search
+82,2025-02-22,Canada,Direct
+83,2025-03-23,Germany,Paid Search
+84,2025-09-01,Germany,Referral
+85,2024-05-27,United States,Organic Search
+86,2025-05-26,Germany,LinkedIn
+87,2024-11-25,Germany,Referral
+88,2025-11-01,United States,Organic Search
+89,2024-02-17,Germany,LinkedIn
+90,2025-09-13,United States,Paid Search
+91,2024-05-28,Canada,Direct
+92,2024-12-14,Canada,Referral
+93,2024-05-22,United Kingdom,Referral
+94,2024-07-13,United States,Referral
+95,2025-09-19,Australia,Organic Search
+96,2024-02-09,Australia,Organic Search
+97,2024-03-13,Canada,Paid Search
+98,2024-11-11,Germany,Referral
+99,2024-06-15,Germany,Organic Search
+100,2024-05-07,Germany,Organic Search
+101,2024-10-30,United Kingdom,Referral
+102,2024-08-09,Germany,Direct
+103,2025-05-29,Germany,Paid Search
+104,2024-05-27,United Kingdom,Paid Search
+105,2024-02-15,Australia,Direct
+106,2024-02-17,United Kingdom,Organic Search
+107,2024-02-08,Australia,Referral
+108,2025-01-25,Australia,Paid Search
+109,2024-02-14,Australia,Organic Search
+110,2025-10-23,Canada,Organic Search
+111,2025-04-07,United States,Paid Search
+112,2024-11-09,United States,Direct
+113,2024-07-10,Australia,Direct
+114,2024-01-31,Australia,Organic Search
+115,2024-11-21,Australia,Direct
+116,2025-02-10,United Kingdom,LinkedIn
+117,2024-06-07,United Kingdom,Paid Search
+118,2024-07-25,Germany,Paid Search
+119,2025-06-05,United Kingdom,Referral
+120,2024-09-02,United States,Organic Search
+121,2024-12-21,Australia,Direct
+122,2024-03-18,United States,Direct
+123,2024-06-14,Australia,LinkedIn
+124,2024-04-12,United Kingdom,Organic Search
+125,2025-11-13,Canada,LinkedIn
+126,2024-08-09,Canada,Referral
+127,2025-10-09,Australia,LinkedIn
+128,2025-04-20,Australia,Organic Search
+129,2025-06-02,Australia,LinkedIn
+130,2025-12-24,United States,Paid Search
+131,2024-07-24,United States,Organic Search
+132,2025-07-30,Australia,Paid Search
+133,2024-07-30,United Kingdom,Direct
+134,2024-06-12,United Kingdom,Paid Search
+135,2025-06-17,United Kingdom,Direct
+136,2025-01-14,United Kingdom,Organic Search
+137,2024-03-12,Germany,LinkedIn
+138,2024-02-04,United States,LinkedIn
+139,2025-08-21,Canada,LinkedIn
+140,2024-05-05,Germany,Direct
+141,2025-07-02,Germany,Direct
+142,2024-01-08,United States,Organic Search
+143,2025-11-16,Canada,Direct
+144,2024-01-28,United Kingdom,Direct
+145,2025-03-05,Canada,Referral
+146,2024-04-08,United States,LinkedIn
+147,2024-10-10,United States,LinkedIn
+148,2024-06-12,Canada,Organic Search
+149,2024-10-01,Australia,Referral
+150,2025-04-27,Canada,Paid Search
+151,2025-11-02,Canada,Paid Search
+152,2025-11-15,Germany,Organic Search
+153,2024-05-19,United Kingdom,Referral
+154,2025-09-15,Canada,LinkedIn
+155,2024-05-03,United States,Referral
+156,2025-11-08,United States,Referral
+157,2024-06-21,Canada,Referral
+158,2024-09-28,United Kingdom,Paid Search
+159,2024-06-22,United States,Paid Search
+160,2024-11-05,United Kingdom,LinkedIn
+161,2025-11-02,United States,LinkedIn
+162,2024-09-29,Australia,Referral
+163,2025-06-11,Australia,LinkedIn
+164,2025-12-30,United States,Organic Search
+165,2025-11-12,United Kingdom,Paid Search
+166,2025-03-26,United Kingdom,Organic Search
+167,2024-03-25,Australia,Referral
+168,2024-09-25,United Kingdom,Referral
+169,2025-04-15,Australia,Organic Search
+170,2024-10-26,Australia,Paid Search
+171,2024-07-16,United States,Referral
+172,2024-01-02,Australia,Direct
+173,2025-06-17,Canada,LinkedIn
+174,2024-11-30,United States,LinkedIn
+175,2025-04-29,United Kingdom,Organic Search
+176,2025-07-13,United Kingdom,Direct
+177,2024-08-28,Germany,LinkedIn
+178,2024-11-08,United Kingdom,Direct
+179,2024-04-08,Canada,Referral
+180,2025-05-31,Germany,Paid Search
+181,2025-04-23,Australia,LinkedIn
+182,2024-11-11,Australia,Organic Search
+183,2024-08-24,United Kingdom,Paid Search
+184,2024-11-29,Australia,Direct
+185,2025-05-23,United Kingdom,Referral
+186,2024-12-09,Germany,Paid Search
+187,2025-02-01,Germany,Paid Search
+188,2025-05-26,United States,LinkedIn
+189,2025-02-04,Australia,LinkedIn
+190,2024-03-13,Canada,LinkedIn
+191,2024-06-23,Canada,Paid Search
+192,2024-01-19,United States,Paid Search
+193,2025-01-04,Australia,Organic Search
+194,2024-12-19,Germany,Direct
+195,2024-05-31,Germany,Referral
+196,2024-11-06,Canada,Paid Search
+197,2025-05-24,United States,Organic Search
+198,2025-08-27,Germany,Paid Search
+199,2024-05-16,Australia,Referral
+200,2024-02-09,Australia,Paid Search
+201,2025-12-13,United States,Referral
+202,2024-04-13,Germany,Direct
+203,2025-03-10,Australia,LinkedIn
+204,2025-08-09,Germany,Direct
+205,2025-09-25,Australia,Referral
+206,2025-10-07,Australia,Referral
+207,2025-11-27,Canada,Referral
+208,2024-12-15,United Kingdom,Paid Search
+209,2025-10-14,United Kingdom,Direct
+210,2025-01-11,Canada,LinkedIn
+211,2024-12-07,United States,LinkedIn
+212,2024-07-01,United Kingdom,LinkedIn
+213,2024-09-05,Australia,Organic Search
+214,2024-04-17,Canada,Paid Search
+215,2024-10-24,Canada,Paid Search
+216,2024-02-19,Germany,Referral
+217,2024-09-14,Australia,Referral
+218,2024-11-18,United States,Paid Search
+219,2025-10-08,Germany,Referral
+220,2025-12-03,Australia,Organic Search
+221,2025-10-27,Australia,Referral
+222,2025-01-05,United States,LinkedIn
+223,2024-08-19,Germany,Referral
+224,2025-02-22,Australia,Direct
+225,2025-11-28,Canada,Referral
+226,2024-06-19,United Kingdom,Referral
+227,2025-01-12,United States,Referral
+228,2024-09-18,Germany,Paid Search
+229,2025-10-14,Germany,Paid Search
+230,2025-04-28,Australia,Organic Search
+231,2025-12-05,Germany,Direct
+232,2025-03-14,United States,Organic Search
+233,2025-05-14,Germany,Paid Search
+234,2025-11-04,Germany,Paid Search
+235,2024-02-09,United Kingdom,Referral
+236,2024-09-11,Canada,Referral
+237,2024-09-10,United Kingdom,Referral
+238,2024-08-04,Germany,LinkedIn
+239,2025-10-10,United States,Referral
+240,2024-01-16,Australia,Organic Search
+241,2024-09-28,Canada,Organic Search
+242,2025-08-29,United States,Organic Search
+243,2024-07-11,Canada,Organic Search
+244,2025-04-27,Canada,Paid Search
+245,2024-04-08,Germany,Organic Search
+246,2025-03-14,Canada,Referral
+247,2025-06-27,United Kingdom,LinkedIn
+248,2024-05-10,Australia,Direct
+249,2025-08-03,United States,Paid Search
+250,2024-08-29,United States,Direct
+251,2024-01-20,United Kingdom,Direct
+252,2025-06-10,Germany,Referral
+253,2025-07-09,Canada,Organic Search
+254,2025-04-04,Canada,Organic Search
+255,2025-06-25,United Kingdom,Direct
+256,2025-09-17,United States,Direct
+257,2025-08-30,United States,LinkedIn
+258,2025-02-17,Germany,LinkedIn
+259,2024-02-23,Australia,LinkedIn
+260,2024-01-10,Germany,Referral
+261,2024-03-22,Germany,LinkedIn
+262,2025-05-08,Germany,Paid Search
+263,2024-12-04,Canada,Direct
+264,2025-05-20,United Kingdom,Direct
+265,2025-09-19,Australia,Referral
+266,2024-12-27,Germany,Direct
+267,2024-07-27,United Kingdom,Paid Search
+268,2025-10-07,United States,LinkedIn
+269,2025-11-15,Germany,Paid Search
+270,2025-08-05,Germany,Direct
+271,2025-04-19,Germany,LinkedIn
+272,2024-01-23,Germany,LinkedIn
+273,2024-05-21,Germany,Paid Search
+274,2024-10-02,United Kingdom,LinkedIn
+275,2024-08-05,Australia,LinkedIn
+276,2025-03-07,United States,Direct
+277,2024-05-28,United States,Paid Search
+278,2025-07-13,Germany,Referral
+279,2025-03-07,Canada,Referral
+280,2025-05-16,Germany,Referral
+281,2025-09-07,United States,Organic Search
+282,2024-08-16,Canada,Referral
+283,2025-06-21,Canada,LinkedIn
+284,2025-05-30,Australia,LinkedIn
+285,2025-01-02,Australia,Direct
+286,2024-09-24,Germany,Direct
+287,2024-09-13,United Kingdom,Referral
+288,2024-07-29,United Kingdom,LinkedIn
+289,2024-06-28,United States,Paid Search
+290,2024-09-02,United States,Direct
+291,2025-08-15,Canada,Paid Search
+292,2024-06-17,Germany,LinkedIn
+293,2025-07-16,Australia,Direct
+294,2025-04-08,United Kingdom,Organic Search
+295,2025-10-08,Canada,LinkedIn
+296,2024-06-25,United Kingdom,Paid Search
+297,2024-08-22,United States,Direct
+298,2024-04-08,United Kingdom,Organic Search
+299,2024-02-12,Australia,LinkedIn
+300,2025-06-25,Canada,Referral
+301,2024-03-20,United States,Direct
+302,2024-08-08,Germany,Referral
+303,2024-12-08,United Kingdom,Paid Search
+304,2024-02-09,United Kingdom,Referral
+305,2024-03-29,United States,Referral
+306,2025-01-16,United States,Direct
+307,2025-05-03,United States,Paid Search
+308,2024-04-25,Australia,LinkedIn
+309,2024-03-07,Canada,Organic Search
+310,2025-03-09,Germany,Direct
+311,2025-04-08,Australia,Paid Search
+312,2025-08-25,Australia,Referral
+313,2024-12-15,Germany,LinkedIn
+314,2025-10-30,Australia,Referral
+315,2024-08-25,Australia,Direct
+316,2024-02-16,Australia,Organic Search
+317,2025-08-15,Canada,Paid Search
+318,2024-07-24,United States,Paid Search
+319,2024-07-05,Canada,Direct
+320,2024-02-28,Canada,Organic Search
+321,2024-11-13,Germany,Direct
+322,2024-12-30,United Kingdom,Organic Search
+323,2024-06-28,United Kingdom,LinkedIn
+324,2025-06-30,Germany,Organic Search
+325,2025-06-17,Canada,LinkedIn
+326,2025-09-03,Australia,Paid Search
+327,2024-11-26,United States,Direct
+328,2024-06-23,Canada,LinkedIn
+329,2025-10-04,Canada,Organic Search
+330,2024-02-16,Canada,LinkedIn
+331,2025-04-07,Australia,LinkedIn
+332,2024-12-07,United States,Referral
+333,2025-06-18,United Kingdom,Referral
+334,2024-07-30,Australia,Direct
+335,2025-01-18,Germany,Organic Search
+336,2025-04-09,United States,Referral
+337,2025-07-24,United Kingdom,Direct
+338,2024-07-13,United States,Organic Search
+339,2024-06-26,Australia,Direct
+340,2024-01-17,United Kingdom,Direct
+341,2024-02-01,Canada,Referral
+342,2025-02-07,Germany,LinkedIn
+343,2024-05-20,Australia,Referral
+344,2025-05-08,Germany,Organic Search
+345,2024-12-31,United Kingdom,Referral
+346,2024-09-15,United Kingdom,Organic Search
+347,2025-10-28,Canada,LinkedIn
+348,2024-11-15,Germany,LinkedIn
+349,2025-05-29,Germany,Direct
+350,2024-01-29,Germany,Organic Search
+351,2024-09-01,United Kingdom,LinkedIn
+352,2024-03-31,Germany,Direct
+353,2025-10-02,United States,Direct
+354,2024-12-24,Germany,Organic Search
+355,2024-05-25,Australia,LinkedIn
+356,2025-04-28,Germany,Referral
+357,2025-08-13,United States,Paid Search
+358,2024-07-26,Australia,Paid Search
+359,2025-12-21,United Kingdom,Referral
+360,2025-11-15,Germany,Organic Search
+361,2024-01-23,Australia,Paid Search
+362,2025-07-05,Canada,LinkedIn
+363,2025-03-03,United States,Direct
+364,2024-11-12,United States,Paid Search
+365,2025-10-15,United States,Referral
+366,2024-04-01,Canada,Referral
+367,2025-12-25,United Kingdom,Direct
+368,2025-07-01,United Kingdom,Referral
+369,2025-10-10,Germany,Referral
+370,2024-07-08,Germany,Direct
+371,2024-04-22,Germany,Paid Search
+372,2025-12-17,Australia,Direct
+373,2025-08-02,Canada,Organic Search
+374,2024-08-02,Germany,LinkedIn
+375,2025-12-26,Australia,LinkedIn
+376,2025-09-29,United States,LinkedIn
+377,2025-07-17,United Kingdom,Direct
+378,2025-03-26,Germany,Paid Search
+379,2024-12-12,Australia,Referral
+380,2024-09-25,United Kingdom,Direct
+381,2025-08-15,Australia,Referral
+382,2024-12-19,United Kingdom,Paid Search
+383,2025-06-25,Canada,Direct
+384,2024-10-24,Canada,Referral
+385,2024-02-03,United Kingdom,Referral
+386,2025-07-01,Germany,Referral
+387,2025-05-30,Canada,Referral
+388,2024-01-29,Canada,Direct
+389,2025-04-03,United Kingdom,Organic Search
+390,2025-11-10,Germany,Organic Search
+391,2025-02-12,Germany,Organic Search
+392,2025-07-15,Canada,Referral
+393,2025-11-07,Canada,Organic Search
+394,2024-12-30,United Kingdom,LinkedIn
+395,2025-04-29,Germany,Organic Search
+396,2025-10-23,United Kingdom,Direct
+397,2024-10-22,United Kingdom,Referral
+398,2025-11-08,Australia,Organic Search
+399,2025-04-24,United States,Paid Search
+400,2025-05-05,United Kingdom,Paid Search
+401,2025-08-03,United States,Referral
+402,2024-03-17,United States,Referral
+403,2024-05-09,United Kingdom,Organic Search
+404,2024-02-05,United Kingdom,Organic Search
+405,2024-08-15,United Kingdom,LinkedIn
+406,2024-11-30,Canada,Paid Search
+407,2025-02-16,Germany,Direct
+408,2025-06-13,Canada,Paid Search
+409,2024-05-15,United States,Direct
+410,2025-11-07,Germany,Direct
+411,2025-06-14,Canada,Referral
+412,2025-12-10,Australia,Paid Search
+413,2024-06-29,Germany,LinkedIn
+414,2024-12-22,United Kingdom,Organic Search
+415,2025-11-29,Germany,LinkedIn
+416,2025-06-10,Australia,Paid Search
+417,2024-02-27,Germany,LinkedIn
+418,2025-04-01,United Kingdom,Referral
+419,2025-06-20,United Kingdom,Referral
+420,2025-10-18,United Kingdom,Paid Search
+421,2024-10-25,Germany,Organic Search
+422,2024-07-03,Germany,Direct
+423,2024-10-05,Australia,LinkedIn
+424,2025-06-27,United Kingdom,Organic Search
+425,2025-10-06,Germany,LinkedIn
+426,2024-01-07,Australia,Organic Search
+427,2025-12-08,Australia,Referral
+428,2025-10-08,United Kingdom,Paid Search
+429,2025-04-16,United Kingdom,Paid Search
+430,2025-05-09,Canada,Direct
+431,2024-07-13,Canada,Organic Search
+432,2025-12-02,United States,LinkedIn
+433,2025-09-04,Germany,Organic Search
+434,2025-03-26,United Kingdom,Paid Search
+435,2024-03-11,United Kingdom,LinkedIn
+436,2025-08-03,Germany,Paid Search
+437,2024-06-04,Canada,Direct
+438,2025-11-11,United Kingdom,Direct
+439,2025-01-24,United Kingdom,Paid Search
+440,2024-07-18,Germany,LinkedIn
+441,2025-08-02,United Kingdom,Organic Search
+442,2024-12-29,United States,Paid Search
+443,2025-08-08,Canada,Referral
+444,2025-10-18,Australia,LinkedIn
+445,2024-03-11,Germany,Organic Search
+446,2024-07-24,Australia,Organic Search
+447,2024-12-19,United Kingdom,LinkedIn
+448,2025-03-30,Germany,LinkedIn
+449,2024-03-25,Canada,Referral
+450,2024-01-20,Australia,Direct
+451,2024-09-11,Australia,Paid Search
+452,2025-05-18,United States,Referral
+453,2025-12-07,United Kingdom,Referral
+454,2024-03-31,Canada,Organic Search
+455,2024-01-29,United Kingdom,Referral
+456,2024-03-31,United States,Paid Search
+457,2025-11-20,Australia,Paid Search
+458,2024-10-28,Germany,LinkedIn
+459,2025-06-04,Australia,Referral
+460,2025-04-01,Canada,Referral
+461,2025-05-23,United States,Referral
+462,2025-04-23,Germany,LinkedIn
+463,2024-01-26,United Kingdom,Paid Search
+464,2024-12-10,Germany,Paid Search
+465,2025-10-26,United Kingdom,Organic Search
+466,2025-06-16,United Kingdom,Direct
+467,2025-12-01,United Kingdom,Organic Search
+468,2024-11-05,United Kingdom,Paid Search
+469,2024-04-04,Germany,Organic Search
+470,2025-05-29,Canada,Direct
+471,2024-01-17,United States,LinkedIn
+472,2024-07-08,Canada,Direct
+473,2024-06-08,United States,Direct
+474,2024-06-09,Australia,Paid Search
+475,2025-09-23,Canada,LinkedIn
+476,2025-08-24,Canada,Direct
+477,2024-01-03,United Kingdom,Paid Search
+478,2024-04-10,Australia,LinkedIn
+479,2025-09-12,Canada,Organic Search
+480,2025-05-28,United States,Paid Search
+481,2024-01-12,United Kingdom,Paid Search
+482,2025-04-02,United Kingdom,Organic Search
+483,2024-05-15,United Kingdom,Organic Search
+484,2024-04-08,Germany,Direct
+485,2024-03-29,United States,Referral
+486,2024-12-14,United Kingdom,Direct
+487,2025-04-06,United States,Referral
+488,2025-01-26,Canada,Direct
+489,2024-02-03,Australia,LinkedIn
+490,2024-12-21,United States,Organic Search
+491,2025-01-07,Germany,Referral
+492,2025-06-16,United States,Referral
+493,2025-07-07,Germany,Organic Search
+494,2025-11-29,United States,LinkedIn
+495,2025-04-17,Canada,Organic Search
+496,2024-04-08,United Kingdom,Direct
+497,2025-05-06,Australia,Direct
+498,2025-07-07,United Kingdom,Referral
+499,2025-04-09,Australia,LinkedIn
+500,2024-12-18,Australia,Direct
+501,2024-11-30,United States,Organic Search
+502,2025-10-24,Australia,Paid Search
+503,2024-11-30,Germany,Paid Search
+504,2024-11-17,United Kingdom,Referral
+505,2024-11-05,Germany,Organic Search
+506,2024-08-30,Germany,LinkedIn
+507,2025-05-31,United Kingdom,LinkedIn
+508,2024-04-28,Germany,Organic Search
+509,2024-03-11,United States,Organic Search
+510,2024-12-01,United States,LinkedIn
+511,2025-09-22,Canada,Direct
+512,2024-02-16,Australia,Direct
+513,2025-03-12,United Kingdom,Organic Search
+514,2024-11-15,United Kingdom,Referral
+515,2025-11-05,United States,LinkedIn
+516,2025-04-11,United Kingdom,LinkedIn
+517,2024-03-21,Australia,Direct
+518,2024-06-14,Canada,Referral
+519,2024-06-23,United States,LinkedIn
+520,2025-10-18,Australia,LinkedIn
+521,2024-03-30,United Kingdom,Direct
+522,2024-06-24,Germany,Direct
+523,2025-08-19,Australia,Direct
+524,2025-06-08,Australia,Organic Search
+525,2025-04-18,United Kingdom,Organic Search
+526,2024-05-20,United Kingdom,LinkedIn
+527,2025-12-16,United Kingdom,LinkedIn
+528,2024-01-05,Canada,Paid Search
+529,2025-03-15,Germany,Organic Search
+530,2024-04-20,United States,Organic Search
+531,2025-08-02,Australia,Paid Search
+532,2024-10-19,Germany,Referral
+533,2024-09-21,Canada,LinkedIn
+534,2024-08-30,United Kingdom,Direct
+535,2025-04-08,United States,Organic Search
+536,2024-04-30,Canada,Direct
+537,2024-02-08,United States,LinkedIn
+538,2024-12-10,Germany,Referral
+539,2025-04-16,Germany,Referral
+540,2024-07-31,Canada,Direct
+541,2024-03-29,United Kingdom,Referral
+542,2024-03-27,United Kingdom,Direct
+543,2025-01-12,Australia,LinkedIn
+544,2024-02-05,Canada,Referral
+545,2025-04-10,United States,Organic Search
+546,2024-06-07,United Kingdom,Paid Search
+547,2025-08-19,Canada,LinkedIn
+548,2024-08-12,United Kingdom,Organic Search
+549,2024-01-07,Germany,Referral
+550,2024-05-16,Canada,Referral
+551,2025-02-17,Canada,Direct
+552,2025-03-09,United Kingdom,Organic Search
+553,2024-11-04,United States,Referral
+554,2024-01-15,Germany,Organic Search
+555,2025-10-31,United Kingdom,Direct
+556,2024-11-29,Australia,Referral
+557,2025-07-05,Germany,LinkedIn
+558,2024-03-30,Germany,Organic Search
+559,2024-09-09,Canada,Direct
+560,2024-12-23,United Kingdom,Organic Search
+561,2024-12-05,United States,Paid Search
+562,2024-12-04,Australia,Referral
+563,2025-02-10,United States,Referral
+564,2025-11-07,United Kingdom,LinkedIn
+565,2024-06-21,United Kingdom,Paid Search
+566,2024-02-29,Australia,Organic Search
+567,2025-02-16,Australia,Paid Search
+568,2025-12-04,United Kingdom,LinkedIn
+569,2025-07-18,Canada,Paid Search
+570,2024-03-20,Canada,LinkedIn
+571,2024-06-02,Canada,Direct
+572,2024-04-28,United States,Paid Search
+573,2025-08-23,Germany,Referral
+574,2025-08-08,Australia,Direct
+575,2024-12-14,Australia,Direct
+576,2024-09-08,United Kingdom,Paid Search
+577,2024-12-07,United States,Referral
+578,2024-12-09,United Kingdom,LinkedIn
+579,2025-04-04,United States,LinkedIn
+580,2025-01-29,United States,LinkedIn
+581,2024-12-24,Germany,Organic Search
+582,2024-02-14,United Kingdom,LinkedIn
+583,2024-02-29,United States,Direct
+584,2025-04-06,Australia,Referral
+585,2024-12-25,Australia,Direct
+586,2025-09-07,United States,Referral
+587,2025-12-07,Australia,Paid Search
+588,2024-09-06,Australia,Referral
+589,2025-01-24,Canada,Organic Search
+590,2024-12-15,United States,LinkedIn
+591,2025-07-08,United States,Direct
+592,2025-05-16,Canada,Organic Search
+593,2024-07-11,Germany,Referral
+594,2025-02-11,Australia,Direct
+595,2024-05-03,United Kingdom,LinkedIn
+596,2025-12-13,United Kingdom,Referral
+597,2024-11-13,United Kingdom,Direct
+598,2024-02-10,United Kingdom,Organic Search
+599,2024-09-13,United States,Direct
+600,2025-06-10,Germany,LinkedIn
+601,2024-07-14,Australia,Paid Search
+602,2024-09-15,United States,Direct
+603,2025-05-30,Canada,LinkedIn
+604,2024-08-28,Germany,Paid Search
+605,2025-04-07,United States,LinkedIn
+606,2025-03-10,Germany,LinkedIn
+607,2025-09-23,Canada,Direct
+608,2024-03-13,Germany,Direct
+609,2024-10-08,United States,LinkedIn
+610,2024-08-27,Canada,Paid Search
+611,2024-09-22,Germany,Paid Search
+612,2024-06-24,Canada,Paid Search
+613,2024-02-29,United Kingdom,Organic Search
+614,2025-01-29,Australia,Direct
+615,2024-01-30,United Kingdom,Direct
+616,2024-04-11,Australia,Referral
+617,2024-04-29,Canada,Paid Search
+618,2025-10-07,Australia,Paid Search
+619,2025-07-14,Germany,Organic Search
+620,2024-11-15,United Kingdom,Paid Search
+621,2024-12-11,Australia,LinkedIn
+622,2025-08-07,Germany,Paid Search
+623,2025-02-18,Canada,LinkedIn
+624,2025-09-20,Germany,Paid Search
+625,2024-10-12,Australia,Referral
+626,2024-12-24,United Kingdom,Referral
+627,2025-01-25,Australia,Referral
+628,2024-05-05,Canada,Direct
+629,2024-04-17,United Kingdom,Organic Search
+630,2025-05-13,Germany,LinkedIn
+631,2025-03-06,United States,Direct
+632,2025-10-23,United States,LinkedIn
+633,2024-03-06,Canada,LinkedIn
+634,2024-12-14,Australia,Paid Search
+635,2025-10-07,Germany,Organic Search
+636,2025-12-08,Canada,Referral
+637,2025-11-18,United Kingdom,Organic Search
+638,2024-11-18,United States,Referral
+639,2025-01-24,United Kingdom,Paid Search
+640,2024-10-26,United States,LinkedIn
+641,2024-06-23,United States,LinkedIn
+642,2025-12-23,United States,LinkedIn
+643,2025-09-06,Canada,Paid Search
+644,2024-01-30,United Kingdom,Referral
+645,2025-06-24,Canada,Referral
+646,2024-12-14,Australia,Organic Search
+647,2025-12-04,United States,Organic Search
+648,2024-07-17,Canada,Paid Search
+649,2025-03-02,Australia,Direct
+650,2024-11-24,United States,LinkedIn
+651,2024-07-03,United Kingdom,Organic Search
+652,2024-02-07,Canada,Referral
+653,2025-05-11,Australia,Referral
+654,2024-02-18,United States,Referral
+655,2025-04-08,Australia,Organic Search
+656,2025-05-05,Australia,Direct
+657,2024-07-06,Canada,LinkedIn
+658,2024-11-29,United States,Direct
+659,2024-10-01,Canada,Direct
+660,2024-11-19,Canada,Organic Search
+661,2025-02-10,United Kingdom,Organic Search
+662,2025-02-12,Australia,Direct
+663,2025-09-02,Australia,Direct
+664,2024-01-16,Germany,Referral
+665,2024-02-03,Germany,LinkedIn
+666,2024-07-16,United States,LinkedIn
+667,2025-09-04,United States,LinkedIn
+668,2024-07-06,United States,Direct
+669,2025-07-25,United Kingdom,Paid Search
+670,2024-02-04,United Kingdom,Direct
+671,2024-09-19,Canada,Referral
+672,2025-06-24,Germany,Paid Search
+673,2025-09-22,Canada,Organic Search
+674,2025-07-10,Germany,Organic Search
+675,2024-08-15,Canada,Organic Search
+676,2025-09-06,Canada,Organic Search
+677,2024-09-02,United Kingdom,Direct
+678,2024-11-05,Australia,Referral
+679,2024-07-15,United States,Paid Search
+680,2024-08-10,United Kingdom,Organic Search
+681,2025-11-03,United Kingdom,LinkedIn
+682,2024-04-06,United Kingdom,Referral
+683,2025-11-21,Germany,Referral
+684,2025-11-25,Germany,LinkedIn
+685,2024-05-25,Germany,Referral
+686,2024-10-12,Australia,LinkedIn
+687,2025-09-14,United States,Referral
+688,2024-03-02,Germany,Direct
+689,2025-09-30,Canada,Direct
+690,2024-08-16,United Kingdom,Organic Search
+691,2024-03-03,United Kingdom,LinkedIn
+692,2024-08-26,Germany,Direct
+693,2025-07-11,Germany,Paid Search
+694,2025-06-19,Germany,LinkedIn
+695,2024-12-13,United States,LinkedIn
+696,2025-04-22,Germany,LinkedIn
+697,2025-05-11,United States,Organic Search
+698,2025-06-05,Germany,LinkedIn
+699,2025-02-02,Canada,Organic Search
+700,2024-04-20,Australia,Referral
+701,2024-01-28,Canada,Organic Search
+702,2024-07-02,United Kingdom,LinkedIn
+703,2024-10-24,Australia,Organic Search
+704,2025-04-14,Canada,Referral
+705,2024-10-15,United Kingdom,Referral
+706,2025-08-15,United States,Direct
+707,2024-04-16,Australia,LinkedIn
+708,2024-11-05,United Kingdom,LinkedIn
+709,2024-07-12,United States,Organic Search
+710,2025-07-25,Canada,Referral
+711,2025-02-06,Germany,Direct
+712,2024-04-01,United Kingdom,LinkedIn
+713,2025-06-30,Germany,Paid Search
+714,2025-04-20,United Kingdom,Referral
+715,2024-06-04,United States,Paid Search
+716,2025-10-24,United States,Referral
+717,2024-05-14,Germany,Organic Search
+718,2025-09-21,United Kingdom,LinkedIn
+719,2025-07-05,United States,Direct
+720,2025-02-25,United Kingdom,LinkedIn
+721,2025-10-23,Canada,Paid Search
+722,2025-09-08,United Kingdom,Direct
+723,2024-06-23,United States,Paid Search
+724,2025-09-07,Canada,Paid Search
+725,2025-09-05,Germany,Organic Search
+726,2024-10-07,Australia,Direct
+727,2024-10-13,Germany,Direct
+728,2024-04-10,Australia,Organic Search
+729,2024-02-21,United Kingdom,Referral
+730,2025-07-10,Germany,Direct
+731,2024-11-15,Germany,Direct
+732,2024-02-27,Canada,LinkedIn
+733,2025-05-13,United States,Referral
+734,2024-12-27,Australia,LinkedIn
+735,2024-04-09,Australia,Direct
+736,2024-05-21,Canada,Referral
+737,2025-01-25,United States,Organic Search
+738,2025-02-06,Canada,LinkedIn
+739,2024-05-07,Canada,LinkedIn
+740,2025-12-27,Canada,LinkedIn
+741,2025-02-07,United Kingdom,Organic Search
+742,2024-07-13,Canada,Direct
+743,2024-08-01,Canada,LinkedIn
+744,2025-04-22,Australia,Organic Search
+745,2025-01-25,Canada,Direct
+746,2025-03-27,Canada,Paid Search
+747,2025-05-26,Australia,Direct
+748,2024-09-19,Australia,Organic Search
+749,2025-10-02,United States,Organic Search
+750,2024-02-05,Australia,LinkedIn
+751,2025-05-20,Canada,Direct
+752,2024-11-19,Australia,Organic Search
+753,2025-01-21,Australia,LinkedIn
+754,2025-05-13,United Kingdom,Referral
+755,2024-07-09,Germany,LinkedIn
+756,2024-12-18,United States,Organic Search
+757,2024-05-02,Germany,Referral
+758,2025-01-11,Germany,Paid Search
+759,2024-09-21,Australia,Paid Search
+760,2024-08-30,United Kingdom,LinkedIn
+761,2024-11-05,Canada,LinkedIn
+762,2025-02-03,Australia,Organic Search
+763,2024-09-04,Canada,Referral
+764,2024-04-05,United Kingdom,Referral
+765,2024-07-11,Canada,Organic Search
+766,2024-02-09,United Kingdom,Referral
+767,2025-11-02,Australia,Referral
+768,2024-07-11,Canada,LinkedIn
+769,2025-12-26,Australia,LinkedIn
+770,2024-05-27,Canada,Referral
+771,2025-02-03,Germany,Referral
+772,2025-11-13,United Kingdom,Referral
+773,2024-01-19,United States,Referral
+774,2025-01-27,Germany,Paid Search
+775,2024-06-16,Australia,LinkedIn
+776,2024-02-07,United States,LinkedIn
+777,2025-01-19,Australia,Referral
+778,2024-08-09,Australia,Organic Search
+779,2025-10-20,United States,Referral
+780,2024-04-14,United Kingdom,LinkedIn
+781,2025-08-16,Germany,LinkedIn
+782,2024-02-05,Germany,Organic Search
+783,2025-03-18,Australia,Paid Search
+784,2024-10-08,Australia,LinkedIn
+785,2024-02-27,Germany,Direct
+786,2024-12-15,Australia,LinkedIn
+787,2025-10-03,Australia,Direct
+788,2024-04-02,Canada,Organic Search
+789,2024-11-01,United Kingdom,LinkedIn
+790,2025-03-09,United Kingdom,Paid Search
+791,2024-06-03,Australia,Direct
+792,2024-11-07,Australia,Organic Search
+793,2024-02-05,United States,Paid Search
+794,2025-07-08,United Kingdom,Referral
+795,2025-02-07,Germany,Paid Search
+796,2025-04-15,Australia,Paid Search
+797,2024-09-11,Australia,LinkedIn
+798,2024-05-06,Germany,Direct
+799,2025-07-28,United Kingdom,Direct
+800,2024-09-18,Australia,Direct
+801,2025-02-17,Germany,Direct
+802,2024-08-20,Germany,Organic Search
+803,2024-10-13,United Kingdom,Organic Search
+804,2024-11-19,Australia,LinkedIn
+805,2025-09-10,United States,Direct
+806,2025-01-03,United Kingdom,Direct
+807,2025-03-24,Canada,Organic Search
+808,2025-03-29,Germany,Paid Search
+809,2025-02-11,Australia,Referral
+810,2024-04-24,Canada,Organic Search
+811,2025-03-20,United States,Paid Search
+812,2024-01-15,Germany,LinkedIn
+813,2024-11-21,Canada,Referral
+814,2025-06-20,Canada,Referral
+815,2025-01-24,Australia,Referral
+816,2025-11-08,United States,Paid Search
+817,2025-02-06,Canada,Direct
+818,2024-09-09,Germany,Direct
+819,2024-10-19,United Kingdom,Paid Search
+820,2024-12-23,Australia,LinkedIn
+821,2025-02-28,United Kingdom,LinkedIn
+822,2025-04-18,Germany,Paid Search
+823,2024-07-10,United Kingdom,Direct
+824,2024-08-19,Canada,LinkedIn
+825,2025-08-21,United Kingdom,Paid Search
+826,2025-06-20,Germany,LinkedIn
+827,2025-01-07,United Kingdom,Direct
+828,2025-12-26,United Kingdom,LinkedIn
+829,2024-04-04,Australia,Direct
+830,2024-10-21,Germany,LinkedIn
+831,2025-08-23,Canada,LinkedIn
+832,2024-02-02,United Kingdom,Organic Search
+833,2024-09-26,Germany,LinkedIn
+834,2025-08-03,Germany,Paid Search
+835,2024-06-05,Australia,LinkedIn
+836,2025-12-25,Australia,LinkedIn
+837,2024-04-16,United States,Direct
+838,2025-07-29,Australia,Paid Search
+839,2024-07-07,United States,Direct
+840,2024-06-24,Canada,Organic Search
+841,2024-03-18,Germany,LinkedIn
+842,2025-07-11,Germany,Organic Search
+843,2025-06-13,Canada,Organic Search
+844,2025-03-03,Canada,Referral
+845,2025-05-22,Germany,Referral
+846,2025-05-20,Canada,LinkedIn
+847,2024-09-06,United Kingdom,Organic Search
+848,2025-12-06,United States,Direct
+849,2024-06-29,Australia,Organic Search
+850,2025-12-10,Canada,Referral
+851,2025-11-16,Canada,Organic Search
+852,2025-10-11,Germany,Referral
+853,2024-05-24,United Kingdom,Organic Search
+854,2024-01-08,United Kingdom,Direct
+855,2025-04-13,United States,LinkedIn
+856,2024-08-09,Germany,Direct
+857,2025-02-11,Germany,Paid Search
+858,2025-10-23,Australia,Referral
+859,2024-07-30,Canada,Organic Search
+860,2024-09-13,Canada,Referral
+861,2025-05-18,United Kingdom,Paid Search
+862,2024-01-11,United Kingdom,LinkedIn
+863,2025-03-17,Canada,Paid Search
+864,2025-04-19,Germany,Referral
+865,2025-02-04,United Kingdom,Organic Search
+866,2024-11-07,United States,Paid Search
+867,2024-04-19,Germany,LinkedIn
+868,2025-12-27,Canada,Organic Search
+869,2024-07-21,Germany,Paid Search
+870,2024-12-12,United Kingdom,LinkedIn
+871,2024-08-22,Australia,Direct
+872,2024-01-09,United Kingdom,LinkedIn
+873,2025-06-22,Canada,Organic Search
+874,2025-06-02,United States,Referral
+875,2024-08-26,Canada,Referral
+876,2025-06-16,Australia,LinkedIn
+877,2025-06-20,United States,LinkedIn
+878,2024-10-12,Australia,Paid Search
+879,2024-06-19,Canada,Referral
+880,2024-04-28,Germany,Direct
+881,2024-10-17,Germany,Direct
+882,2025-12-09,Germany,Direct
+883,2025-09-14,Canada,Paid Search
+884,2025-06-12,Australia,Organic Search
+885,2025-02-12,Germany,Direct
+886,2025-06-30,United Kingdom,Organic Search
+887,2025-12-13,Australia,Organic Search
+888,2024-02-17,Australia,Direct
+889,2024-06-06,Australia,Direct
+890,2024-04-26,Canada,LinkedIn
+891,2025-10-25,Australia,Referral
+892,2024-03-31,Canada,Direct
+893,2025-01-14,United States,Direct
+894,2024-12-12,United States,Referral
+895,2024-04-12,Australia,Referral
+896,2024-12-20,Australia,Organic Search
+897,2025-03-10,Germany,LinkedIn
+898,2025-07-15,United States,Referral
+899,2024-07-16,United States,Paid Search
+900,2025-03-25,United States,Organic Search
+901,2024-11-25,United Kingdom,Organic Search
+902,2025-02-24,United States,Organic Search
+903,2025-12-26,Germany,Organic Search
+904,2024-08-10,Germany,Paid Search
+905,2025-08-20,Canada,Referral
+906,2024-10-17,Germany,Referral
+907,2025-11-06,Germany,Referral
+908,2024-03-03,Australia,Paid Search
+909,2025-05-22,United Kingdom,Organic Search
+910,2024-05-18,Australia,Referral
+911,2025-02-14,Canada,Paid Search
+912,2025-10-10,United States,Organic Search
+913,2024-08-19,Germany,Direct
+914,2024-11-25,Australia,Referral
+915,2025-10-01,Canada,Paid Search
+916,2024-12-23,United Kingdom,Paid Search
+917,2024-08-02,Canada,Organic Search
+918,2024-01-26,Germany,Direct
+919,2025-08-18,United States,Paid Search
+920,2024-06-09,United States,Organic Search
+921,2025-04-06,United States,Referral
+922,2025-04-09,United States,Paid Search
+923,2025-07-29,United States,Referral
+924,2024-12-06,Canada,Direct
+925,2024-06-17,United States,Paid Search
+926,2025-01-26,United Kingdom,Paid Search
+927,2025-09-25,Australia,LinkedIn
+928,2025-03-24,Australia,LinkedIn
+929,2024-07-03,United Kingdom,Paid Search
+930,2025-05-27,Australia,Paid Search
+931,2024-11-17,United Kingdom,LinkedIn
+932,2024-02-17,Australia,Direct
+933,2025-11-14,Canada,Referral
+934,2025-03-07,Germany,Organic Search
+935,2024-09-24,Germany,Direct
+936,2024-09-04,Germany,Referral
+937,2024-04-25,United Kingdom,Referral
+938,2024-05-22,Australia,Referral
+939,2024-07-06,Canada,LinkedIn
+940,2025-10-28,Canada,Referral
+941,2025-12-11,United States,Direct
+942,2024-11-16,Germany,Direct
+943,2025-02-15,Canada,Referral
+944,2024-07-07,United Kingdom,Paid Search
+945,2024-09-13,United States,Referral
+946,2025-10-19,United Kingdom,Organic Search
+947,2025-02-20,Canada,Organic Search
+948,2024-07-27,Germany,Direct
+949,2025-04-13,United States,Organic Search
+950,2024-05-26,Australia,Direct
+951,2024-06-17,Germany,Paid Search
+952,2025-11-06,United Kingdom,LinkedIn
+953,2025-12-07,United States,Paid Search
+954,2025-12-28,Canada,Organic Search
+955,2025-08-03,Germany,Paid Search
+956,2025-06-24,Australia,Paid Search
+957,2024-11-04,Canada,Direct
+958,2024-09-06,United Kingdom,Referral
+959,2024-12-28,Australia,LinkedIn
+960,2024-08-27,United Kingdom,LinkedIn
+961,2025-02-02,Germany,Referral
+962,2024-03-17,Germany,LinkedIn
+963,2025-12-11,Canada,LinkedIn
+964,2024-08-31,Germany,Organic Search
+965,2025-03-12,Canada,Paid Search
+966,2024-01-13,United Kingdom,Direct
+967,2025-12-27,Australia,Direct
+968,2025-07-13,Germany,LinkedIn
+969,2024-04-28,Canada,LinkedIn
+970,2024-06-27,Germany,Direct
+971,2025-10-09,Canada,Referral
+972,2025-03-03,United Kingdom,LinkedIn
+973,2025-08-15,Germany,Referral
+974,2024-12-23,Canada,LinkedIn
+975,2024-05-11,Canada,Direct
+976,2025-01-14,Canada,Direct
+977,2025-05-13,United States,Direct
+978,2024-01-27,United States,Organic Search
+979,2025-08-16,United States,Referral
+980,2024-04-16,Canada,Organic Search
+981,2025-07-03,Canada,Organic Search
+982,2024-06-18,Australia,Referral
+983,2024-10-16,United States,Direct
+984,2025-05-10,Australia,Referral
+985,2025-05-27,Germany,Organic Search
+986,2024-01-06,Australia,Direct
+987,2024-11-15,United States,Organic Search
+988,2025-02-15,United Kingdom,Direct
+989,2024-08-10,United States,Direct
+990,2025-09-23,Germany,Paid Search
+991,2024-03-24,United States,Direct
+992,2024-04-25,Canada,Paid Search
+993,2025-04-26,Australia,LinkedIn
+994,2025-09-25,United Kingdom,LinkedIn
+995,2025-09-09,Germany,Organic Search
+996,2024-10-16,Germany,Referral
+997,2025-03-14,Canada,Paid Search
+998,2024-08-20,United States,Organic Search
+999,2024-03-13,Germany,Referral
+1000,2024-10-19,Australia,Referral
