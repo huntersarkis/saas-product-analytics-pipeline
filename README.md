@@ -96,6 +96,25 @@ Parts of this project, including initial data generation scripts, were developed
 
 ---
 
+## Findings
+
+Analysis of the modeled SaaS data revealed several key business insights:
+
+- **Referral was the top acquisition channel by revenue**, generating 9,731 in total revenue, slightly outperforming organic search.
+- **Germany produced the highest total revenue** (9,020), followed by Australia and the United Kingdom, indicating stronger monetization in those regions.
+- **User activity was evenly distributed across event types**, with signups and logins leading total engagement, suggesting consistent interaction across the product.
+- **Active subscriptions significantly outnumbered churned users** (482 active vs 162 churned), indicating relatively strong retention in the dataset.
+- **Daily KPI modeling revealed fluctuations in user activity and revenue over time**, demonstrating how the pipeline supports ongoing performance tracking.
+
+---
+## Example Analysis Queries
+
+Sample queries used to generate insights can be found in:
+
+`sql/analysis/analysis_queries.sql`
+
+---
+
 ## Summary
 
 This project demonstrates core analytics engineering skills, including:
