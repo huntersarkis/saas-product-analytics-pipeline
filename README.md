@@ -1,0 +1,105 @@
+# SaaS Product Analytics Pipeline
+
+## Overview
+This project simulates an end-to-end analytics engineering workflow for a SaaS company. The goal is to transform raw user, event, and subscription data into analytics-ready models that support business insights such as user engagement, retention, and revenue.
+
+The pipeline follows a structured approach using staging and mart layers to create clean, reusable datasets for reporting and analysis.
+
+---
+
+## Tech Stack
+- Python (data generation and ingestion)
+- SQL (data transformation and modeling)
+- SQLite (local database)
+- Git & GitHub (version control)
+- VS Code (development environment)
+
+---
+
+## Data Sources
+The project uses three core datasets:
+
+- **users**: user signups and attributes (country, acquisition channel)
+- **events**: user activity (logins, feature usage, interactions)
+- **subscriptions**: subscription plans, revenue, and churn information
+
+All data is programmatically generated using Python to simulate real-world SaaS data.
+
+---
+
+## Data Model
+
+### Staging Layer
+- `stg_users`
+- `stg_events`
+- `stg_subscriptions`
+
+These models represent cleaned versions of the raw data.
+
+### Fact Tables
+- `fct_user_events`: captures user activity and behavior
+- `fct_revenue`: captures subscription revenue and active status
+
+### Dimension Tables
+- `dim_users`: user attributes used for analysis
+
+### Metrics Layer
+- `daily_metrics`: aggregated daily KPIs including:
+  - total events
+  - daily active users (DAU)
+  - total revenue from active subscriptions
+
+---
+
+## Key Metrics
+
+- **Daily Active Users (DAU)**: number of unique users generating events per day  
+- **Total Events**: total number of tracked user actions  
+- **Revenue**: total monthly revenue from active subscriptions  
+- **Active vs Churned Users**: determined using subscription end dates  
+
+---
+
+## Example Use Cases
+
+This data model can support:
+- user engagement analysis by country or acquisition channel  
+- revenue analysis across subscription plans  
+- tracking growth trends over time  
+- identifying high-value user segments  
+
+---
+
+## Project Structure
+
+
+saas-product-analytics-pipeline/
+│
+├── data/
+│ ├── raw/
+│ ├── z_processed/
+│
+├── sql/
+│ ├── staging/
+│ ├── marts/
+│
+├── python/
+├── dashboards/
+├── README.md
+
+
+---
+
+## AI Assistance Disclosure
+
+Parts of this project, including initial data generation scripts, were developed with the assistance of AI tools (ChatGPT). All code was reviewed, modified, and validated to ensure accuracy and understanding.
+
+---
+
+## Summary
+
+This project demonstrates core analytics engineering skills, including:
+- building data pipelines
+- designing data models (fact and dimension tables)
+- transforming raw data into business-ready datasets
+- defining and calculating key business metrics
