@@ -8,4 +8,5 @@ SELECT
     e.event_timestamp
 FROM events e
 LEFT JOIN users u
-    ON e.user_id = u.user_id;
+    ON e.user_id = u.user_id
+LIMIT 25;
