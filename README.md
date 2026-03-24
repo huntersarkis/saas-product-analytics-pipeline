@@ -76,16 +76,33 @@ This data model can support:
 saas-product-analytics-pipeline/
 │
 ├── data/
-│ ├── raw/
-│ ├── z_processed/
+│ └── raw/
+│ ├── users.csv
+│ ├── events.csv
+│ └── subscriptions.csv
 │
 ├── sql/
 │ ├── staging/
+│ │ ├── stg1_users.sql
+│ │ ├── stg2_events.sql
+│ │ └── stg3_subscriptions.sql
+│ │
 │ ├── marts/
+│ │ ├── fct_user_events.sql
+│ │ ├── fct_revenue.sql
+│ │ ├── dim_users.sql
+│ │ └── daily_metrics.sql
+│ │
+│ └── analysis/
+│ └── analysis_queries.sql
 │
 ├── python/
+│ ├── generate_data.py
+│ └── load_to_sqlite.py
+│
 ├── dashboards/
-├── README.md
+├── saas_analytics.db
+└── README.md
 
 
 ---
